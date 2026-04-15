@@ -106,4 +106,3 @@ La sauvegarde est automatique à chaque fin de génération.
 ## Auteur
 
 **Isidore Zongo**  
-[Portfolio](#) · [LinkedIn](#) · [GitHub](#)

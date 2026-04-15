@@ -30,5 +30,8 @@ env/
 *.swp
 *.swo
 
-# Captures de démo (générées localement)
-demo_capture.py
+# Scripts de capture (générés localement)
+capture_demo.py
+
+# Données temporaires
+*.log
