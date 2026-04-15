@@ -2,7 +2,9 @@
 
 > Un agent IA qui apprend à jouer à Flappy Bird grâce à un algorithme génétique (NEAT) codé **from scratch** en Python.
 
-![Demo](assets/demo.gif)
+| Modèle chargé (score record : 324) | Entraînement from scratch |
+|:---:|:---:|
+| ![Trained](assets/demo_trained.gif) | ![Training](assets/demo_training.gif) |
 
 ---
 
